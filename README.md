@@ -45,13 +45,13 @@ Assumptions :
 ## Usage
 
 1. Run clean_data.py with the 3 oroginal databases
-2. Run supervised_churn.py to create a dataframe for:
-   2.1 Churn Predictions
-   2.2 Clustering - > Run Kmeans.py
+2. Run supervised_churn.py to create a dataframe for: <br/>
+   2.1 Churn Predictions<br/>
+   2.2 Clustering - > Run Kmeans.py<br/>
 
-3. Outputs:
-   3.1 Dataframe with features per CustomerId plus Churned or Not_Churned
-   3.2 Dataframe with features per CustomerId plus Cluster group
+3. Outputs:<br/>
+   3.1 Dataframe with features per CustomerId plus Churned or Not_Churned<br/>
+   3.2 Dataframe with features per CustomerId plus Cluster group<br/>
 
 ## Results
 
